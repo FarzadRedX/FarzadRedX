@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarzadRedX
-- 👀 I’m interested in C++ And Python
+- 👀 I’m interested in C# And Python
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on I am building an application software for businessmen
 - 📫 How to reach me Farzad RedX on : twitter , reddit 
